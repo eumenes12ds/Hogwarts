@@ -28,7 +28,7 @@ export function generateSchema(
     parentRecursiveExtensible: boolean = false
 ): SchemaNode {
     // @ts-expect-error hack for mvu zod
-    if (oldSchemaNode === '没有用别管这个') {
+    if (oldSchemaNode === '未使用の内部フィールド') {
         return { type: 'any' };
     }
 

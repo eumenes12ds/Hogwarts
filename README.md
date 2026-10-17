@@ -1,6 +1,8 @@
 # Hogwarts Japanese runtime assets
 
-Card-owned dependencies for `ホグワーツ：運命の岐路`. Release: `v2026.10.17.1`.
+Card-owned dependencies for `ホグワーツ：運命の岐路`. Release: `v2026.10.17.2`.
+
+This release synchronizes MVU's schema-sentinel reader with the Japanese value written by `mvu_zod`. The earlier `v2026.10.17.1` tag remains immutable and is superseded; no live card was installed with it.
 
 This repository contains runtime code, its maintained source, dependency modules, and licenses. It contains no character narrative, preset payload, cover image, account data, connection settings or credentials.
 

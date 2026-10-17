@@ -1,10 +1,10 @@
 {
-  "release": "v2026.10.17.1",
+  "release": "v2026.10.17.2",
   "files": [
     {
       "file": "runtime/mvu.js",
-      "bytes": 585852,
-      "sha256": "9705a9901014c7885677acf29cd54384877f20a586c1d0d409e233006153b702"
+      "bytes": 585864,
+      "sha256": "1735d0610ee135d9b02e05570e3eca38cfa337b140592d6e797893ce3a6da700"
     },
     {
       "file": "runtime/mvu_zod.js",
